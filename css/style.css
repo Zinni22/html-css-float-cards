@@ -67,3 +67,11 @@ span{
     color: #01b5ed;
     margin-top:20px;
 }
+
+
+/* EFFETTO */
+.card:hover{
+    background-color:#e53170 ;
+    color:black;
+    cursor:pointer;
+}
