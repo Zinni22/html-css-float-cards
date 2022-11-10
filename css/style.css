@@ -21,7 +21,6 @@ main{
 }
 .container{
     width:70%;
-    background-color: lightpink;
     margin: auto;
 }
 h1{
@@ -48,8 +47,9 @@ h1{
     float:left;
     margin-right:5%;
     margin-top:50px;
+    box-shadow: 0px 0px 19px 1px #000000;
 }
-.card:nth-child(3){
+.card:nth-child(3), .card:nth-child(6){
     margin-right: 0;
 }
 img{
@@ -62,7 +62,6 @@ h2{
     margin-top:15px;
     margin-bottom:5px;
 }
-
 span{
     font-size: 12px;
     color: #01b5ed;
