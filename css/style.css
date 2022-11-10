@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Fredoka', sans-serif;
+}
+main{
+    padding-top: 70px;
+}
+
+/* PRIMA SECTION */
+.container{
+    width:70%;
+    background-color: lightpink;
+    margin: auto;
+}
+h1{
+    color:#e53170;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+p{
+    font-weight:400;
+    text-align: center;
+    line-height: 22px;
+}

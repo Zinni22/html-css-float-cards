@@ -5,8 +5,8 @@
     weight: 400 e 700
 
 2.  Colori:
-    Rosa h1: #e53170
-    Sfondo card: #0f0e17
+    Rosa h1: #e53170 
+    Sfondo card: #0f0e17 
     Email card: #01b5ed
 
 
